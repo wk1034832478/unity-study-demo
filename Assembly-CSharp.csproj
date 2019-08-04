@@ -60,6 +60,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\AnimationMove.cs" />
     <Compile Include="Assets\Scripts\E1Script.cs" />
     <Compile Include="Assets\Scripts\TankScript.cs" />
     <Compile Include="Assets\Scripts\TargetScript.cs" />
