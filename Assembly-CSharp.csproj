@@ -61,6 +61,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\E1Script.cs" />
+    <Compile Include="Assets\Scripts\TankScript.cs" />
     <Compile Include="Assets\Scripts\TargetScript.cs" />
     <Compile Include="Assets\Scripts\TickScreenScript.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
